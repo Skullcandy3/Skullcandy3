@@ -23,6 +23,15 @@ Here are a few highlights of my academic and personal development work:
 
 ---
 
+### 📚 DAT120 - Python plotting project
+**📅 Duration**: September 2024 – November 2024  
+**🏛️ Institution**: University of Stavanger  
+**📝 Description**: 
+Complex plotting from long .csv files with data from weather station data from stations around the Stavanger area. By using Pandas for data extraction and matplotlib for plotting graphic library.
+**🔗 [View Project Repository](https://github.com/Skullcandy3/Work-at-UNI/tree/main/DAT120%20Python%20plot%20project)**
+
+---
+
 ### 🔧 DAT310 – Web Programming Portfolio  
 **📅 Duration**: January 2025 – April 2025  
 **🏛️ Institution**: University of Stavanger  
