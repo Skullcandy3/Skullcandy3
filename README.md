@@ -51,7 +51,7 @@ Created a LEGO robot simulation to model physical movement and logic control usi
 ---
 
 ### 🌐 Wordle Game – Full Stack Web Application *(Exam Project)*  
-**📅 Duration**: April 2025 – June 2025 *(Ongoing)*  
+**📅 Duration**: April 2025 – June 2025   
 **🏛️ Institution**: University of Stavanger  
 **📝 Description**:  
 Designed and implemented a fully functional **Wordle game** using **Flask**, **JavaScript**, and a three-database architecture. Features include a secure login/register system, **AJAX-based** username validation, score tracking, and game logic. Built with modern UX in mind as part of the university exam.  
