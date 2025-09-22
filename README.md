@@ -23,12 +23,12 @@ Here are a few highlights of my academic and personal development work:
 
 ---
 
-### 📚 DAT120 - Python plotting project
-**📅 Duration**: September 2024 – November 2024  
+### 🌐 Wordle Game – Full Stack Web Application *(Exam Project)*  
+**📅 Duration**: April 2025 – June 2025   
 **🏛️ Institution**: University of Stavanger  
-**📝 Description**: 
-Complex plotting from long .csv files with data from weather station data from stations around the Stavanger area. By using Pandas for data extraction and matplotlib for plotting graphic library.
-**🔗 [View Project Repository](https://github.com/Skullcandy3/Work-at-UNI/tree/main/DAT120%20Python%20plot%20project)**
+**📝 Description**:  
+Designed and implemented a fully functional **Wordle game** using **Flask**, **JavaScript**, and a three-database architecture. Features include a secure login/register system, **AJAX-based** username validation, score tracking, and game logic. Built with modern UX in mind as part of the university exam.  
+**🔗 [View Project Repository](https://github.com/Skullcandy3/Work-at-UNI/tree/main/Website%20project)**
 
 ---
 
@@ -50,12 +50,12 @@ Created a LEGO robot simulation to model physical movement and logic control usi
 
 ---
 
-### 🌐 Wordle Game – Full Stack Web Application *(Exam Project)*  
-**📅 Duration**: April 2025 – June 2025   
+### 📚 DAT120 - Python plotting project
+**📅 Duration**: September 2024 – November 2024  
 **🏛️ Institution**: University of Stavanger  
-**📝 Description**:  
-Designed and implemented a fully functional **Wordle game** using **Flask**, **JavaScript**, and a three-database architecture. Features include a secure login/register system, **AJAX-based** username validation, score tracking, and game logic. Built with modern UX in mind as part of the university exam.  
-**🔗 Repository: Work in Progress**
+**📝 Description**: 
+Complex plotting from long .csv files with data from weather station data from stations around the Stavanger area. By using Pandas for data extraction and matplotlib for plotting graphic library.
+**🔗 [View Project Repository](https://github.com/Skullcandy3/Work-at-UNI/tree/main/DAT120%20Python%20plot%20project)**
 
 ---
 
