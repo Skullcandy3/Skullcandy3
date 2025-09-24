@@ -7,7 +7,7 @@ I'm a Data Science student at the University of Stavanger and a Junior full-stac
 ## 👨‍💻 About Me
 
 - 🎓 **Currently pursuing**: BSc in Data Science  
-- 💻 **Tech Stack**: Python, JavaScript, HTML/CSS, Flask, SQL, Pandas, NumPy, Git, MATLAB 
+- 💻 **Tech Stack**: Python, JavaScript, HTML/CSS, Go(Golang), Flask, SQL, Pandas, NumPy, Git, MATLAB 
 - 🔧 **Tools I use**: VS Code, Jupyter, GitHub, MATLAB/Simulink  
 - 📚 **Currently learning**: Advanced Flask, Server implementation of a website, Full stack dev 
 - 🤝 **Open to collaborate on**: Data-driven applications, Flask-based web apps, or fun game projects  
