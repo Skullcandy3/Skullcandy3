@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm William (aka @Skullcandy3) — Welcome to my GitHub Profile!
+# 👋 Hi there, I'm William (aka @Skullcandy3)
 
 I'm a Data Science student at the University of Stavanger and a Junior full-stack developer. I enjoy building intelligent systems, sleek user interfaces, and solving real-world problems with code.  
 
@@ -9,7 +9,7 @@ I'm a Data Science student at the University of Stavanger and a Junior full-stac
 - 🎓 **Currently pursuing**: BSc in Data Science  
 - 💻 **Tech Stack**: Python, JavaScript, HTML/CSS, Go(Golang), Flask, SQL, Pandas, NumPy, Git, MATLAB 
 - 🔧 **Tools I use**: VS Code, Jupyter, GitHub, MATLAB/Simulink  
-- 📚 **Currently learning**: Advanced Flask, Server implementation of a website, Full stack dev 
+- 📚 **Currently learning**: Operating systems, Data structures and algorithms, introduction to cybersecurity and C programming logic.
 - 🤝 **Open to collaborate on**: Data-driven applications, Flask-based web apps, or fun game projects  
 - 📫 **How to reach me**:  
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/williamhanssen)  
@@ -29,6 +29,33 @@ Here are a few highlights of my academic and personal development work:
 **📝 Description**:  
 Designed and implemented a fully functional **Wordle game** using **Flask**, **JavaScript**, and a three-database architecture. Features include a secure login/register system, **AJAX-based** username validation, score tracking, and game logic. Built with modern UX in mind as part of the university exam.  
 **🔗 [View Project Repository](https://github.com/Skullcandy3/Work-at-UNI/tree/main/Website%20project)**
+
+---
+
+### 🔧 DAT250 - Introduction Cybersecurity 
+**📅 Duration**: Oktober 2025 – November 2025  
+**🏛️ Institution**: University of Stavanger  
+**📝 Description**:
+Worked collaboratively with a team to identify and remediate multiple security vulnerabilities in a web application designed for educational purposes. Addressed issues such as Broken Access Control (BAC), SQL Injection (SQLi), Cross-Site Scripting (XSS), and potential DDoS risks. Implemented secure input validation, endpoint checks, and proper handling of database interactions. Additionally, applied hashing and salting techniques to secure credentials as part of the learning process.
+**🔗 [View Project Repository](https://github.com/Skullcandy3/Work-at-UNI/tree/main/DAT250%20Cybersecurity)**
+
+---
+
+### 🔧 DAT320 - Operating systems and sytem programming Portfolio
+**📅 Duration**: August 2025 – November 2025  
+**🏛️ Institution**: University of Stavanger  
+**📝 Description**:
+Developed applications in Go and a bit of C to deepen understanding of operating system concepts such as process scheduling, concurrency, and memory management. Focused on practical implementation of pointers in C and explored theoretical aspects through hands-on lab exercises. Each project reinforced core principles from the syllabus through applied programming.
+**🔗 [View Project Repository](https://github.com/Skullcandy3/Work-at-UNI/tree/main/DAT320%20Opsys)**
+
+---
+
+### 🔧 DAT200 - Data structures and algorithms Portfolio
+**📅 Duration**: August 2025 – November 2025  
+**🏛️ Institution**: University of Stavanger  
+**📝 Description**:
+Implemented various data structures in Python to analyze the impact of Big-O complexity on runtime performance. Created additional programs to experiment with stack overflow and underflow scenarios, and developed a tree visualization using Turtle graphics beyond the standard assignments. Gained hands-on experience with recursion, linked lists, hashing, and sorting algorithms, including building custom solutions to validate quiz results.
+**🔗 [View Project Repository](https://github.com/Skullcandy3/Work-at-UNI/tree/main/DAT200%20DSA)**
 
 ---
 
@@ -69,8 +96,7 @@ Complex plotting from long .csv files with data from weather station data from s
 ## 🎯 Fun Facts
 
 - ⚡ I love solving puzzles, building small games, and turning ideas into working prototypes  
-- 🧩 Currently crafting better UX for my Flask-based apps and experimenting with full-stack design
-
+- 🧩 Currently crafting better cool codes to understand better pointers in C and visualising trees with turtle in Python.
 ---
 
 Thanks for stopping by! Feel free to connect and reach out for any intrest in my work.
