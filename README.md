@@ -27,7 +27,7 @@ Here are a few highlights of my academic and personal development work:
 **📅 Duration**: April 2025 – June 2025   
 **🏛️ Institution**: University of Stavanger  
 **📝 Description**:  
-Designed and implemented a fully functional **Wordle game** using **Flask**, **JavaScript**, and a three-database architecture. Features include a secure login/register system, **AJAX-based** username validation, score tracking, and game logic. Built with modern UX in mind as part of the university exam.  
+Designed and implemented a fully functional **Wordle game** using **Flask**, **JavaScript**, and a three-database architecture. Features include a secure login/register system, **AJAX-based** username validation, score tracking, and game logic. Built with modern UX in mind as part of the university exam.<br>
 **🔗 [View Project Repository](https://github.com/Skullcandy3/Work-at-UNI/tree/main/Website%20project)**
 
 ---
@@ -36,7 +36,7 @@ Designed and implemented a fully functional **Wordle game** using **Flask**, **J
 **📅 Duration**: Oktober 2025 – November 2025  
 **🏛️ Institution**: University of Stavanger  
 **📝 Description**:
-Worked collaboratively with a team to identify and remediate multiple security vulnerabilities in a web application designed for educational purposes. Addressed issues such as Broken Access Control (BAC), SQL Injection (SQLi), Cross-Site Scripting (XSS), and potential DDoS risks. Implemented secure input validation, endpoint checks, and proper handling of database interactions. Additionally, applied hashing and salting techniques to secure credentials as part of the learning process.
+Worked collaboratively with a team to identify and remediate multiple security vulnerabilities in a web application designed for educational purposes. Addressed issues such as Broken Access Control (BAC), SQL Injection (SQLi), Cross-Site Scripting (XSS), and potential DDoS risks. Implemented secure input validation, endpoint checks, and proper handling of database interactions. Additionally, applied hashing and salting techniques to secure credentials as part of the learning process.<br>
 **🔗 [View Project Repository](https://github.com/Skullcandy3/Work-at-UNI/tree/main/DAT250%20Cybersecurity)**
 
 ---
@@ -45,7 +45,7 @@ Worked collaboratively with a team to identify and remediate multiple security v
 **📅 Duration**: August 2025 – November 2025  
 **🏛️ Institution**: University of Stavanger  
 **📝 Description**:
-Developed applications in Go and a bit of C to deepen understanding of operating system concepts such as process scheduling, concurrency, and memory management. Focused on practical implementation of pointers in C and explored theoretical aspects through hands-on lab exercises. Each project reinforced core principles from the syllabus through applied programming.
+Developed applications in Go and a bit of C to deepen understanding of operating system concepts such as process scheduling, concurrency, and memory management. Focused on practical implementation of pointers in C and explored theoretical aspects through hands-on lab exercises. Each project reinforced core principles from the syllabus through applied programming.<br>
 **🔗 [View Project Repository](https://github.com/Skullcandy3/Work-at-UNI/tree/main/DAT320%20Opsys)**
 
 ---
@@ -54,7 +54,7 @@ Developed applications in Go and a bit of C to deepen understanding of operating
 **📅 Duration**: August 2025 – November 2025  
 **🏛️ Institution**: University of Stavanger  
 **📝 Description**:
-Implemented various data structures in Python to analyze the impact of Big-O complexity on runtime performance. Created additional programs to experiment with stack overflow and underflow scenarios, and developed a tree visualization using Turtle graphics beyond the standard assignments. Gained hands-on experience with recursion, linked lists, hashing, and sorting algorithms, including building custom solutions to validate quiz results.
+Implemented various data structures in Python to analyze the impact of Big-O complexity on runtime performance. Created additional programs to experiment with stack overflow and underflow scenarios, and developed a tree visualization using Turtle graphics beyond the standard assignments. Gained hands-on experience with recursion, linked lists, hashing, and sorting algorithms, including building custom solutions to validate quiz results.<br>
 **🔗 [View Project Repository](https://github.com/Skullcandy3/Work-at-UNI/tree/main/DAT200%20DSA)**
 
 ---
@@ -63,7 +63,7 @@ Implemented various data structures in Python to analyze the impact of Big-O com
 **📅 Duration**: January 2025 – April 2025  
 **🏛️ Institution**: University of Stavanger  
 **📝 Description**:  
-Developed a series of web applications using **Flask**, **JavaScript**, **HTML/CSS**, and **SQLite**. Implemented secure user authentication, route handling, dynamic templating with Jinja2, and basic API integration as part of the Web Programming curriculum.  
+Developed a series of web applications using **Flask**, **JavaScript**, **HTML/CSS**, and **SQLite**. Implemented secure user authentication, route handling, dynamic templating with Jinja2, and basic API integration as part of the Web Programming curriculum.<br>  
 **🔗 [View Project Repository](https://github.com/Skullcandy3/Work-at-UNI/tree/main/DAT310%20Webprograming)**
 
 ---
@@ -72,7 +72,7 @@ Developed a series of web applications using **Flask**, **JavaScript**, **HTML/C
 **📅 Duration**: March 2025 – May 2025  
 **🏛️ Institution**: University of Stavanger  
 **📝 Description**:  
-Created a LEGO robot simulation to model physical movement and logic control using **MATLAB**. Focused on sensor integration, pathfinding algorithms, and systematic task execution within a virtual environment. Designed as a lab report-based project.  
+Created a LEGO robot simulation to model physical movement and logic control using **MATLAB**. Focused on sensor integration, pathfinding algorithms, and systematic task execution within a virtual environment. Designed as a lab report-based project.<br>  
 **🔗 [View Project Repository](https://github.com/Skullcandy3/Work-at-UNI/tree/main/LEGO%20project)**
 
 ---
@@ -81,7 +81,7 @@ Created a LEGO robot simulation to model physical movement and logic control usi
 **📅 Duration**: September 2024 – November 2024  
 **🏛️ Institution**: University of Stavanger  
 **📝 Description**: 
-Complex plotting from long .csv files with data from weather station data from stations around the Stavanger area. By using Pandas for data extraction and matplotlib for plotting graphic library.
+Complex plotting from long .csv files with data from weather station data from stations around the Stavanger area. By using Pandas for data extraction and matplotlib for plotting graphic library.<br>
 **🔗 [View Project Repository](https://github.com/Skullcandy3/Work-at-UNI/tree/main/DAT120%20Python%20plot%20project)**
 
 ---
