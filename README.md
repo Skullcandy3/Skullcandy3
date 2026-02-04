@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm William (aka @Skullcandy3)
 
-I'm a Data Science student at the University of Stavanger and a Junior full-stack developer. I enjoy building intelligent systems, sleek user interfaces, and solving real-world problems with code.  
+I'm a Computer Science student at the University of Stavanger and a Junior full-stack developer. I enjoy building intelligent systems, sleek user interfaces, and solving real-world problems with code.  
 
 ---
 
