@@ -6,11 +6,11 @@ I'm a Data Science student at the University of Stavanger and a Junior full-stac
 
 ## 👨‍💻 About Me
 
-- 🎓 **Currently pursuing**: BSc in Data Science  
-- 💻 **Tech Stack**: Python, JavaScript, HTML/CSS, Go(Golang), Flask, SQL, Pandas, NumPy, Git, MATLAB 
-- 🔧 **Tools I use**: VS Code, Jupyter, GitHub, MATLAB/Simulink  
-- 📚 **Currently learning**: Operating systems, Data structures and algorithms, introduction to cybersecurity and C programming logic.
-- 🤝 **Open to collaborate on**: Data-driven applications, Flask-based web apps, or fun game projects  
+- 🎓 **Currently pursuing**: BSc in Computer Science  
+- 💻 **Tech Stack**: C#, Python, JavaScript, HTML/CSS, Go(Golang), SQL, Git, MATLAB 
+- 🔧 **Tools I use**: VS Code, Azure, Docker, Jupyter, GitHub, MATLAB/Simulink  
+- 📚 **Currently learning**: Software engineering and communication technology 
+- 🤝 **Open to collaborate on**: Data-driven applications, Deploying web apps using Azure and making games with C#  
 - 📫 **How to reach me**:  
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/williamhanssen)  
   [![Email](https://img.shields.io/badge/Email-grey?style=flat&logo=gmail)](mailto:283984@uis.com)
@@ -96,7 +96,7 @@ Complex plotting from long .csv files with data from weather station data from s
 ## 🎯 Fun Facts
 
 - ⚡ I love solving puzzles, building small games, and turning ideas into working prototypes  
-- 🧩 Currently crafting better cool codes to understand better pointers in C and visualising trees with turtle in Python.
+- 🧩 Currently crafting cool .NET applications for web apps and small games.
 ---
 
 Thanks for stopping by! Feel free to connect and reach out for any intrest in my work.
