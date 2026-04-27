@@ -10,7 +10,7 @@ I'm a Computer Science student at the University of Stavanger and a Junior full-
 - 💻 **Tech Stack**: C#, Python, JavaScript, HTML/CSS, Go(Golang), SQL, Git, MATLAB 
 - 🔧 **Tools I use**: VS Code, Azure, Docker, Jupyter, GitHub, MATLAB/Simulink  
 - 📚 **Currently learning**: Software engineering and communication technology 
-- 🤝 **Open to collaborate on**: Data-driven applications, Deploying web apps using Azure and making games with C#  
+- 🤝 **Open to collaborate on**: Data-driven applications, Deploying web apps using Azure and making full stack websites with C#  
 - 📫 **How to reach me**:  
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/williamhanssen)  
   [![Email](https://img.shields.io/badge/Email-grey?style=flat&logo=gmail)](mailto:283984@uis.com)
@@ -20,6 +20,15 @@ I'm a Computer Science student at the University of Stavanger and a Junior full-
 ## 📌 Pinned Projects
 
 Here are a few highlights of my academic and personal development work:
+
+---
+
+### 🌐 CampusEats – Full Stack Web Application *(Exam Project)*  
+**📅 Duration**: March 2026 – April 2026   
+**🏛️ Institution**: University of Stavanger  
+**📝 Description**:  
+Designed and developed a full‑stack food delivery web application inspired by Foodora, using C# as the primary programming language. The system was built with Blazor Pages and integrates multiple external APIs to support a complete end‑to‑end order workflow. <br>
+**🔗 [View Project Repository](https://github.com/Skullcandy3/Work-at-UNI/tree/main/DAT240-CampusEats)**
 
 ---
 
