@@ -7,7 +7,7 @@ I'm a Computer Science student at the University of Stavanger and a Junior full-
 ## 👨‍💻 About Me
 
 - 🎓 **Currently pursuing**: BSc in Computer Science  
-- 💻 **Tech Stack**: C#, Python, JavaScript, HTML/CSS, Go(Golang), SQL, Git, MATLAB 
+- 💻 **Tech Stack**: C#, Python, R, JavaScript, HTML/CSS, Go(Golang), SQL, Git, MATLAB 
 - 🔧 **Tools I use**: VS Code, Azure, Docker, Jupyter, GitHub, MATLAB/Simulink  
 - 📚 **Currently learning**: Software engineering and communication technology 
 - 🤝 **Open to collaborate on**: Data-driven applications, Deploying web apps using Azure and making full stack websites with C#  
